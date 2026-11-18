@@ -2,6 +2,11 @@
 
 JavaScript Web Geliştirme projesi için React, Vite ve düz CSS ile hazırlanmış görev takip uygulaması. Görevler aynı tarayıcıda `localStorage` ile saklanır.
 
+## Bağlantılar
+
+- Canlı uygulama https://tnc-gorev-defteri.vercel.app
+- GitHub https://github.com/ugurmetinkarabulut/tnc-gorev-defteri
+
 ## Çalıştırma
 
 Node.js 20.19+ veya 22.12+ gerekir.
